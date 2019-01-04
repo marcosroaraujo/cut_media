@@ -1,0 +1,9 @@
+env
+test
+docs
+sources
+__pycache__
+*.pyc
+*.swp
+*.log
+*.rdb
